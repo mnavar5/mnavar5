@@ -16,12 +16,11 @@
 
 
 <p align="center">
-  <iframe src="https://giphy.com/embed/5rqPkvN9pveHOuT3bx"></iframe>
+<a href="https://giphy.com/gifs/facebook-meta-metaverse-5rqPkvN9pveHOuT3bx"><iframe src="https://giphy.com/embed/5rqPkvN9pveHOuT3bx" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</a>
 </p>
 
-<iframe src="https://giphy.com/embed/5rqPkvN9pveHOuT3bx" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<a href="https://giphy.com/gifs/facebook-meta-metaverse-5rqPkvN9pveHOuT3bx">
-</a>
+
 
 ---
 
