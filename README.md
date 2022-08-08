@@ -16,8 +16,7 @@
 
 
 <p align="center">
-  <a href="https://giphy.com/gifs/facebook-meta-metaverse-5rqPkvN9pveHOuT3bx">
-  </a>
+  <img src="https://giphy.com/gifs/facebook-meta-metaverse-5rqPkvN9pveHOuT3bx">
 </p>
 
 ---
