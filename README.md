@@ -16,10 +16,8 @@
 
 
 <p align="center">
-<a href="https://giphy.com/gifs/facebook-meta-metaverse-5rqPkvN9pveHOuT3bx/"><img src="https://giphy.com/embed/5rqPkvN9pveHOuT3bx/" width="480" height="270" frameBorder="0" class="giphy-embed"></img>
-</a>
+<iframe src="https://giphy.com/embed/IsCM8aCBUjpRwJ2IJN" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/meta-metaverse-facebook-meta-IsCM8aCBUjpRwJ2IJN">via GIPHY</a></p>
 </p>
-
 
 
 ---
