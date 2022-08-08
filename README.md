@@ -1,15 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!👨🏻‍💻&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
 
 ### I'm Michel - [website] 👋
 
 <h1 align="center">
-  I'm Michel - [website] 👋
   Let's Connect and have a Chat!💬
 </h1>
 
@@ -17,7 +12,9 @@
 <a href="https://www.linkedin.com/in/michel-navarro-4b7b5b113/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
+[website] 👋
 </p>
+
 
 <p align="center">
   <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
