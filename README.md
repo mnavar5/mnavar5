@@ -32,7 +32,7 @@ located_in: Baltimore, Maryland
 current_job: Software Engineer
 education:
   [
-    "Self-Taught Developer and Designer",
+    "Towson Univeristy",
     "Bachelor's in Computer Science",
   ]
 company: Accenture Federal Services
@@ -59,9 +59,10 @@ technical_background:
     "Intern - SQL",
   ]
   
-currently_learning: ["React, JavaScript, NoSQL"]
-2022 Goals: ["Create 2 High Imporatnce Projects and learn at least 5 new Technologies."]
-hobbies: ["Researching latest technologies and firmwares", "Boxing and working out", "walking my puppy somewhere new"]
+currently_learning: ["MERN", "JavaScript", "Python"]
+2022 Goals: ["Create 2 High Importance Projects", "Learn at least 5 new Technologies"]
+hobbies: ["Researching latest technologies", "Boxing", "Walking my puppy"]
+
 ```
   
 ---  
@@ -106,5 +107,12 @@ hobbies: ["Researching latest technologies and firmwares", "Boxing and working o
 
 ---
 
+<h2> Abstract </h2>
+<p align="center" font=8px> 
+If theres one thing I want to be, it's Revolutionary.
+
+I'm working on a full stack project that connects people with roomates based on machine learning compatability. The algo will take in preferences and location. It will feature Machine Learning like tinder, to help train the model. Now a days many people are looking for roomates and it's important we know who we are going to be living with and sharing our space. This will also help tenants fill their homes and generate income more efficent. With a global recession many people are left with bills and are looking to rent out spaces. While there are websites like zillow and facebook-market-place that allow rental posting, they do not focus on optimal compatibilty - a modern machine learning feature used in many applications today. (linkedin- job compatibility)(tinder- date compatibilty)(tiktok- media compatibilty)(youtube -content compatibility). Theres a reason why these apps are at the most downloaded and used frameworks today. 
+
+</p>
 [website]: https://mnavar5.github.io
 [linkedin]: https://www.linkedin.com/in/michel-navarro-4b7b5b113/
