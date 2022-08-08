@@ -112,7 +112,9 @@ hobbies: ["Researching latest technologies", "Boxing", "Walking my puppy"]
 If Theres One Thing I Want To Be, It's Revolutionary.
 
 I'm building out a full stack application that connects people with roomates based on machine learning compatability. The algo will take in preferences, location, income, records, and other attributes. It will feature Machine Learning like tinder, to help train the model. You will be able to log into this App and swipe through roomates with the highest match to your likings. This App will also revolutionaize the way rental properties are displayed using state of the art 3d imagery and possibly metaverse interactions. Now a days many people are looking for roomates and it's important we know who we are going to be living with and sharing our space. Your best roomate is out there and you dont even know. Machine learning can help you find them. This App will also help tenants fill their homes and generate income more efficent. With a global recession many people are left with bills and are looking to rent out spaces. Its very hard going through hundreds of applications without knowing much about them. While there are websites like zillow and facebook-market-place that allow rental posting, they do not focus on optimal compatibilty and transparency - a modern machine learning feature used in many applications today. (linkedin- job compatibility)(tinder- date compatibilty)(tiktok- media compatibilty)(youtube -content compatibility). Theres a reason why these apps are at the most downloaded and used frameworks today. 
-
 </p>
+
+---
+
 [website]: https://mnavar5.github.io
 [linkedin]: https://www.linkedin.com/in/michel-navarro-4b7b5b113/
