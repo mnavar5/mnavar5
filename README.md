@@ -12,12 +12,10 @@
 <a href="https://www.linkedin.com/in/michel-navarro-4b7b5b113/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-[website] 👋
 </p>
 
 
 <p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
   <iframe src="https://giphy.com/embed/5rqPkvN9pveHOuT3bx" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/facebook-meta-metaverse-5rqPkvN9pveHOuT3bx">via GIPHY</a></p>
 </p>
 
